@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DVSJagadeesh
-- 👀 I’m interested in DataScience, Python
+- 👀 I’m interested in Software Engineering, Machine Learning
 - 🌱 I’m currently learning C++, Java, Python
 - 💞️ I’m looking to collaborate on projects related to ML domain
 - 📫 jagadeeshdumpa14@gmail.com
