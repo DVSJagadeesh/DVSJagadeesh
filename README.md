@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @DVSJagadeesh
-- 👀 I’m interested in Software Engineering, Machine Learning
-- 🌱 I’m currently learning C++, Java, Python
-- 💞️ I’m looking to collaborate on projects related to ML domain
-- 📫 jagadeeshdumpa14@gmail.com
-
-<!---
-DVSJagadeesh/DVSJagadeesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final-year engineering student with a strong foundation in Object-oriented programming (OOPs), hands-on research experience and three published papers. Quick learner with a keen interest in Backend Development, Software‐Development practices and Machine Learning eager to translate my exhaustive education into industry solutions. Proven communication and leadership skills leading professionals from 5 corporate organizations in Toastmasters International, a world wide leadership forum.
